@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .ii{
+            background-color: black;
+        }
+        .kk{
+            position: absolute;
+            top: 10px;
+            left:40px;
+            width: 100px;
+            height: 20px;
+        }
+        .uu{
+            position: absolute;
+            top: 20px;
+            left:170px ;
+            color: white;
+            font-family: Arial,sans-serif;
+            text-decoration: none;
+            font-size: 10px;
+            
+        }
+        .oo{
+            position: absolute;
+            top: 20px;
+            left: 215px ;
+            color: white;
+             font-family:Arial,sans-serif ;
+            text-decoration:none ;
+            font-size:10px ; 
+        }
+        .ll{
+            position: absolute;
+            top: 20px;
+            left: 270px;
+            color: white;
+            font-family:Arial,sans-serif ;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        .tt{
+            position: absolute;
+            top: 20px;
+            left: 335px;
+            color: white;
+            font-family:Arial,sans-serif ;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        .ww{
+            position: absolute;
+            top: 20px;
+            left: 400px;
+            color: white;
+            font-family: Arial,sans-serif ;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        .aa{
+            position: absolute;
+            top: 20px;
+            left: 450px;
+            color: white;
+            font-family: Arial,sans-serif ;
+            text-decoration: none;
+            font-size: 10px;
+        }
+        .bb{
+            position: absolute;
+            top: 20px;
+            left: 510px;
+            color: white;
+            font-family: Arial,sans-serif ;
+            text-decoration: none;
+            font-size: 10px;  
+        }
+        .qq{
+            position: absolute;
+            top: 20px;
+            left: 800px;
+            width: 15px;
+            height: 15px;
+        }
+        .ee{
+            position: absolute;
+            top: 20px;
+            left: 750px;
+            width: 15px;
+            height: 15px;
+        }
+        .z{
+            height: fit-content;
+            width: auto;
+            background-color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 2px solid black;
+            position: absolute;
+            top: 50px;
+            right: 5px;
+            opacity: 0;
+            border-radius: 4px;
+        }
+        .j,.j2{
+            color: white;
+            text-decoration: none;
+        }
+        .qq:hover + .z{
+            transition: 0.3s;
+            opacity: 1;
+        }
+        
+    </style>
+</head>
+<body class="ii">
+    <img class="kk" src="amazon-removebg-preview.png" alt="pics">
+    <a class="uu" href="https://www.amazon.in/minitv">Home</a>
+    <a class="oo" href="https://www.amazon.in/minitv/ct/imported">imported</a>
+    <a class="ll" href="https://www.amazon.in/minitv/ct/web-series">web-series</a>
+    <a class="tt" href="https://www.amazon.in/minitv/ct/playground">playground</a>
+    <a class="ww" href="https://www.amazon.in/minitv/ct/playground">movies</a>
+    <a class="aa" href="https://www.amazon.in/minitv/ct/romance">romance</a>
+    <a class="bb" href="https://www.amazon.in/minitv/ct/comedy">comedy</a>
+    <img class="qq" src="setting image.svg" alt="pics">
+    <a href="https://www.amazon.in/"><img class="ee" src="amazon mini logo.svg" alt=""></a>
+    <div class="z">
+        <a class="j" href="https://www.amazon.in/minitv?mtv_pt=external&refMarker=AVOD_gs_mw_BRND_EDU_GS_TXT_Desk_skey28&gad_source=1&gclid=EAIaIQobChMI__rbrNeFhwMVO6RmAh1h6wuqEAAYASAAEgI6L_D_BwE">parentral control</a><br>
+        <a class="j2" href="">delr mini tv data</a>
+    </div>
+
+</body>
+</html>
